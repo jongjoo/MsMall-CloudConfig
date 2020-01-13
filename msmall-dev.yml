@@ -1,3 +1,4 @@
+name: dev
 version: dev
 
 ##### Eureka Server의 url이 들어간다.
