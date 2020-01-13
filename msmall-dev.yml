@@ -1,11 +1,2 @@
 version: dev
 
-############################################################
-################## Application Settings ####################
-
-##### 여기서 명시한 어플리케이션 이름이 유레카 서버에 Service ID로 등록된다.
-spring.application.name=onetest
-server.port=${PORT:8090}
-
-##### Eureka Server의 url이 들어간다.
-eureka.client.serviceUrl.defaultZone=http://localhost:8787/eureka/
