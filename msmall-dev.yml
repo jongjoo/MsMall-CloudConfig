@@ -1,2 +1,4 @@
 version: dev
 
+##### Eureka Server의 url이 들어간다.
+eureka.client.serviceUrl.defaultZone=http://localhost:8787/eureka/
